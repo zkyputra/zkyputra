@@ -6,11 +6,11 @@
 
 #####
 
-<h3 align="center">About me</h3>
+<h3 align="center">🎊HI🎊</h3>
 
 #####
 
-<h4 align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Laravel<br>🎯 Goals: Become Software and Blockcain Developer<br>🎲 Fun fact: Mie Ayam enak</h4>
+<p align="left">Welcome to my GitHub profile! I'm a motivated fresh graduate from vocational high school, currently learning web development and building projects to sharpen my skills. I'm passionate about technology and eager to grow as a future developer.</p>
 
 #####
 
