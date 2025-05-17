@@ -1,12 +1,10 @@
-### Hi 👋
-
 <div align="center">
-  <img height="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZkaXQ4djRjZm13MmZ6OGZqNnk0dnB5cjZ5dGdzN2RpdXZ3c2xxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif"  />
+  <img height="130%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZkaXQ4djRjZm13MmZ6OGZqNnk0dnB5cjZ5dGdzN2RpdXZ3c2xxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif"  />
 </div>
 
 #####
 
-<h3 align="center">🎊HI🎊</h3>
+<h3 align="center">🎊Hello, i'm Zacky🎊</h3>
 
 #####
 
