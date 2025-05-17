@@ -1,4 +1,4 @@
-#### Hi 👋
+### Hi 👋
 
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZkaXQ4djRjZm13MmZ6OGZqNnk0dnB5cjZ5dGdzN2RpdXZ3c2xxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif"  />
@@ -6,7 +6,7 @@
 
 #####
 
-<h4 align="center">About me</h4>
+<h3 align="center">About me</h3>
 
 #####
 
@@ -14,7 +14,7 @@
 
 #####
 
-<h4 align="center">I code with</h4>
+<h3 align="center">I code with</h3>
 
 #####
 
