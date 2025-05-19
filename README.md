@@ -8,7 +8,7 @@
 
 #####
 
-<p align="left">Welcome to my GitHub profile! I'm a motivated fresh graduate from vocational high school, currently learning web development and building projects to sharpen my skills. I'm passionate about technology and eager to grow as a future developer.</p>
+<p align="left">Welcome to my GitHub profile! I'm currently learning web development and building projects to sharpen my skills. I'm passionate about technology and eager to grow as a future developer.</p>
 
 #####
 
@@ -32,16 +32,26 @@
 
 #####
 
+<img src="https://raw.githubusercontent.com/zkyputra/zkyputra/output/snake.svg" alt="Snake animation" />
+ 
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zkyputra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+ <a href="https://t.me/zckyp">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="www.instagram.com/zckyp">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="zackyppratama12@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
-#####
+###
 
-<img src="https://raw.githubusercontent.com/zkyputra/zkyputra/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zkyputra.zkyputra&"  />
+</div>
 
-#####
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zckyp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zackyppratama12@gmail.com)
-
-#####
+###
